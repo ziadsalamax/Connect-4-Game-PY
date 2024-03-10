@@ -1,3 +1,3 @@
 # Connect-4-Game-PY
 
-# Project description
+## Project description
